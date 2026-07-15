@@ -1,0 +1,1 @@
+# Operators are special symbols that perform operations on variables and values. In Python, we have several types of operators, including arithmetic, comparison, logical, assignment, and bitwise operators.
